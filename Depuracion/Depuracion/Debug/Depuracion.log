@@ -1,0 +1,4 @@
+﻿  Depuracion1.cpp
+c:\users\s107e12.cucupaep\documents\rodrigo lira\depuracion\depuracion\depuracion1.cpp(7): error C2065: 'expoente' : undeclared identifier
+c:\users\s107e12.cucupaep\documents\rodrigo lira\depuracion\depuracion\depuracion1.cpp(14): error C2146: syntax error : missing ')' before identifier 'potencia'
+c:\users\s107e12.cucupaep\documents\rodrigo lira\depuracion\depuracion\depuracion1.cpp(14): error C2059: syntax error : ')'

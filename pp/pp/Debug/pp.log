@@ -1,0 +1,23 @@
+﻿  jos.c
+c:\users\s107e12.cucupaep\documents\rodrigo lira\pp\pp\jos.c(19): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+c:\users\s107e12.cucupaep\documents\rodrigo lira\pp\pp\jos.c(20): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+c:\users\s107e12.cucupaep\documents\rodrigo lira\pp\pp\jos.c(24): warning C4129: 'B' : unrecognized character escape sequence
+c:\users\s107e12.cucupaep\documents\rodrigo lira\pp\pp\jos.c(26): warning C4129: 'D' : unrecognized character escape sequence
+c:\users\s107e12.cucupaep\documents\rodrigo lira\pp\pp\jos.c(27): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+c:\users\s107e12.cucupaep\documents\rodrigo lira\pp\pp\jos.c(28): warning C4129: 'D' : unrecognized character escape sequence
+c:\users\s107e12.cucupaep\documents\rodrigo lira\pp\pp\jos.c(29): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+c:\users\s107e12.cucupaep\documents\rodrigo lira\pp\pp\jos.c(30): warning C4129: 'D' : unrecognized character escape sequence
+c:\users\s107e12.cucupaep\documents\rodrigo lira\pp\pp\jos.c(31): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+c:\users\s107e12.cucupaep\documents\rodrigo lira\pp\pp\jos.c(33): warning C4129: 'D' : unrecognized character escape sequence
+c:\users\s107e12.cucupaep\documents\rodrigo lira\pp\pp\jos.c(34): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+c:\users\s107e12.cucupaep\documents\rodrigo lira\pp\pp\jos.c(37): warning C4129: 'A' : unrecognized character escape sequence
+c:\users\s107e12.cucupaep\documents\rodrigo lira\pp\pp\jos.c(38): warning C4129: 'V' : unrecognized character escape sequence
+c:\users\s107e12.cucupaep\documents\rodrigo lira\pp\pp\jos.c(13): warning C4101: 'costo' : unreferenced local variable
+  LINK : C:\Users\S107E12.CUCUPAEP\Documents\Rodrigo Lira\pp\Debug\pp.exe not found or not built by the last incremental link; performing full link
+  pp.vcxproj -> C:\Users\S107E12.CUCUPAEP\Documents\Rodrigo Lira\pp\Debug\pp.exe
